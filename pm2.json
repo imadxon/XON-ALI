@@ -1,0 +1,197 @@
+{
+
+  "apps": [
+
+  
+
+    {
+
+      "name": "hinata",
+
+      "script": "./src/aurora.js",
+
+      "watch": true,
+
+      "env": {
+
+        "NODE_ENV": "development",
+
+        "NAME": "hinata",
+
+        "PREFIX": ":",
+
+        "MODS ":"916239664935,917980329866,918087843902,923346792704,919775689150",
+
+        "PORT": "3001",
+
+        "openAI": "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",
+
+        "SESSION": "hinata50",
+
+        "URL": "mongodb+srv://tan:tan@cluster0.mf0nmls.mongodb.net/?retryWrites=true&w=majority"
+
+      }
+
+    },
+
+    {
+
+      "name": "mikasa",
+
+      "script": "./src/aurora.js",
+
+      "watch": true,
+
+      "env": {
+
+        "NODE_ENV": "development",
+
+        "NAME": "mikasa",
+
+        "PREFIX": ":",
+
+        "MODS": "916239664935,917980329866,918087843902,923346792704,919775689150",
+
+        "PORT": "3003",
+
+        "openAI": "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",
+
+        "SESSION": "mikasa50",
+
+        "URL": "mongodb+srv://tan:tan@cluster0.mf0nmls.mongodb.net/?retryWrites=true&w=majority"
+
+      }
+
+    },
+
+      
+
+      {
+
+      "name": "rias",
+
+      "script": "./src/aurora.js",
+
+      "watch": true,
+
+      "env": {
+
+        "NODE_ENV": "development",
+
+        "NAME": "rias",
+
+        "PREFIX": ":",
+
+        "MODS": "916239664935,917980329866,918087843902,923346792704,919775689150",
+
+        "PORT": "3004",
+
+        "openAI": "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",
+
+        "SESSION": "rias50",
+
+        "URL": "mongodb+srv://tan:tan@cluster0.mf0nmls.mongodb.net/?retryWrites=true&w=majority"
+
+      }
+
+    },
+
+    
+
+        {
+
+      "name": "akeno",
+
+      "script": "./src/aurora.js",
+
+      "watch": true,
+
+      "env": {
+
+        "NODE_ENV": "development",
+
+        "NAME": "akeno",
+
+        "PREFIX": ":",
+
+        "MODS ":"916239664935,917980329866,918087843902,923346792704,919775689150",
+
+        "PORT": "3005",
+
+        "openAI": "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",
+
+        "SESSION": "akeno50",
+
+        "URL": "mongodb+srv://tan:tan@cluster0.mf0nmls.mongodb.net/?retryWrites=true&w=majority"
+
+      }
+
+    },
+
+    
+
+        {
+
+      "name": "gojo",
+
+      "script": "./src/aurora.js",
+
+      "watch": true,
+
+      "env": {
+
+        "NODE_ENV": "development",
+
+        "NAME": "gojo",
+
+        "PREFIX": ":",
+
+        "MODS ":"916239664935,917980329866,918087843902,923346792704,919775689150",
+
+        "PORT": "3006",
+
+        "openAI": "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",
+
+        "SESSION": "gojo50",
+
+        "URL": "mongodb+srv://tan:tan@cluster0.mf0nmls.mongodb.net/?retryWrites=true&w=majority"
+
+      }
+
+    },
+
+    
+
+          {
+
+      "name": "obito",
+
+      "script": "./src/aurora.js",
+
+      "watch": true,
+
+      "env": {
+
+        "NODE_ENV": "development",
+
+        "NAME": "obito",
+
+        "PREFIX": ":",
+
+        "MODS ":"916239664935,917980329866,918087843902,923346792704,919775689150",
+
+        "PORT": "3007",
+
+        "openAI": "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",
+
+        "SESSION": "nami50",
+
+        "URL": "mongodb+srv://tan:tan@cluster0.mf0nmls.mongodb.net/?retryWrites=true&w=majority"
+
+      }
+
+    }  
+
+  ]
+
+}
